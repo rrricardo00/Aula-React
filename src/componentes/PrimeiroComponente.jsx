@@ -1,6 +1,11 @@
 import React from 'react';
 
-export default () => <h1>Primeiro Componente</h1>;
+export default (props) => 
+<div>
+<h1>{props.valor}</h1>
+<h1>{"Aqui vai uam string solta"}</h1>
+</div>
+
 
 
 
