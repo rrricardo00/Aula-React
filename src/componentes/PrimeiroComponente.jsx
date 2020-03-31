@@ -10,13 +10,3 @@ export default (props) =>
 
 </div>
 
-
-
-
-// function primeiro(){
-
-//     return <h1>Primeiro Componente</h1>;
-
-// }
-
-// export default primeiro;
